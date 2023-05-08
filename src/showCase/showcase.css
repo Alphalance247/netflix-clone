@@ -1,0 +1,31 @@
+.showcase {
+  margin: 3rem 3rem;
+  display: flex;
+  color: white;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 0.6rem solid #252239;
+  background: linear-gradient(#1b0b27, red);
+  padding: 0.5rem;
+}
+
+.show-4 {
+  border-bottom: none;
+}
+
+img {
+  width: 33rem;
+}
+
+.details > h1 {
+  font-size: 3.3rem;
+  margin-bottom: 1.5rem;
+}
+
+.details > p {
+  font-size: 1.4rem;
+}
